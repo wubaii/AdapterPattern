@@ -1,0 +1,1 @@
+适配器模式，运行software文件夹下的DefaultAdapterRegistry.java。
